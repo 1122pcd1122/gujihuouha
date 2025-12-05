@@ -1,0 +1,11 @@
+Flask==3.1.2
+gensim==4.3.3
+jiayan==0.0.21
+numpy==2.3.5
+opencc==1.1.9
+pytorch_crf==0.7.2
+Requests==2.32.5
+roformer==0.4.3
+scikit_learn==1.7.2
+torch==2.4.1+cu124
+transformers==4.47.1

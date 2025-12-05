@@ -1,0 +1,11 @@
+{
+  "O": 0,
+  "B-PER": 1,
+  "B-OFI": 2,
+  "B-LOC": 3,
+  "B-TIME": 4,
+  "I-PER": 5,
+  "I-OFI": 6,
+  "I-LOC": 7,
+  "I-TIME": 8
+}
